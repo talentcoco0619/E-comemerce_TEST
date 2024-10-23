@@ -14,7 +14,7 @@ You need to create a simple microservice that:
 ○ Fetch inventory details for the store front.
 
 Task:
-1. Set up a basic microservice using TypeScript, and Drizzle ORM that:
+1. Set up a basic microservice using TypeScript, and Prisma that:
 ○ Receives a POST request to update inventory when a product is purchased.
 ○ Receives a GET request to return the current inventory of a product.
 2. Assume the database structure is as follows:
